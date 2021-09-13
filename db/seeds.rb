@@ -14,6 +14,7 @@ Bookshelf.create!(topic: 'Memetics')
 Bookshelf.create!(topic: 'Enlightenment')
 Bookshelf.create!(topic: 'New Age, Fiction')
 Bookshelf.create!(topic: 'Health')
+Bookshelf.create!(topic: 'Mind, Body, Spirit')
 
 
 
