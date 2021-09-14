@@ -1,2 +1,0 @@
-class BookshelvesController < ApplicationController
-end
