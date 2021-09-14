@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  topic_name1: MyString
+  topic_name2: MyString
+  topic_name3: MyString
+  topic_name4: MyString
+  topic_name5: MyString
+  topic_name6: MyString
+  topic_name7: MyString
+  book: one
+
+two:
+  topic_name1: MyString
+  topic_name2: MyString
+  topic_name3: MyString
+  topic_name4: MyString
+  topic_name5: MyString
+  topic_name6: MyString
+  topic_name7: MyString
+  book: two
